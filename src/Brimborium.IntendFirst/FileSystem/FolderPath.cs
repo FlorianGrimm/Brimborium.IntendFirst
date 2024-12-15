@@ -14,3 +14,7 @@ public class FolderPath {
 
 public class FilePath {
 }
+
+public class FileContent { 
+    public string Content { get; set; }
+}
